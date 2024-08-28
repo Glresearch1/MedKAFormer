@@ -1,2 +1,2 @@
 # MedKAFormer
-The complete code for MedKAFormer.
+The complete code of MedKAFormer will be released after the manuscript in our paper.
