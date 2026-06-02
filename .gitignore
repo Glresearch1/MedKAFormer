@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS and editors
+.DS_Store
+.idea/
+.vscode/
+
+# Data and experiment outputs
+data/
+datasets/
+kvasir_output/
+outputs/
+runs/
+wandb/
+Tensorboard_Results/
+
+# Model artifacts
+*.ckpt
+*.pth
+*.pt
+*.onnx
+
+# Logs
+*.log
+logs/
